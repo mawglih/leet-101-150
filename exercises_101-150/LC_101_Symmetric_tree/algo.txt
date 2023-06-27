@@ -1,0 +1,6 @@
+Create a helper to validate 3 scenarios:
+1. left and right both not exist
+2. either left or right exist
+3. left and rigth values are equal
+
+Call it recursively for leftNode.left, rightNode.right and leftNode.right, rightNode.left.
