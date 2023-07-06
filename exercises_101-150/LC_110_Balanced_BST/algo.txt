@@ -1,0 +1,1 @@
+CHeck if any node presemt, return true if none. FOr all other cases use recursive function checkDepth(), unless treenode is null. Call funcrion for root.left and root.right. Compare depth results.
