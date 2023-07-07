@@ -1,0 +1,1 @@
+Check for null for root, fro root.left and root.right. In case all edge cases are bypassed, return min between depth left and depth right, that can be calculated recursively. Do not forget to add 1 - since you need to include the previous node.
