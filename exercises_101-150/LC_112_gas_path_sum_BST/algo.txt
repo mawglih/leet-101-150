@@ -1,0 +1,1 @@
+Check for null and check if root.val is equal to target some and no more nodes present. If not run recursion for left and right and return results.
