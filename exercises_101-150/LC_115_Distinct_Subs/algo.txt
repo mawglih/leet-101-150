@@ -1,0 +1,1 @@
+Create hashMap to hold found pairs of chars in s and t. Create a helper function that accept indexeses for s and t. Inside function set an index that consists of a pair i and j indices. If found a match check whether hashmap already has such a pair, if not save to hasjmap new result. Return resultindex that will give number of subs.
